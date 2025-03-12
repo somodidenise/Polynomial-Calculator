@@ -36,7 +36,7 @@ Polynomial-Calculator/
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/Polynomial-Calculator.git
+   git clone https://github.com/somodidenise/Polynomial-Calculator.git
    ```
 2. Open the project in IntelliJ IDEA or another Java IDE.
 3. Build the project using Maven:
